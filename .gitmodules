@@ -1,0 +1,3 @@
+[submodule "challonge"]
+	path = challonge
+	url = https://github.com/SebRut/challonge.git
